@@ -19,9 +19,9 @@
 ## Support
 This package currently is only tested on android and the web platform.
 
- - [x] [android](https://github.com/malivinayak/flutter_razorpay_integration/releases/download/v1.0.0/Flutter_Razorpay.apk)
- - [ ] ios
- - [ ] web
- - [ ] windows
- - [ ] macos
- - [ ] linux
+ ✅ [android](https://github.com/malivinayak/flutter_razorpay_integration/releases/download/v1.0.0/Flutter_Razorpay.apk)
+ 🔳 ios
+ 🔳 web
+ 🔳 windows
+ 🔳 macos
+ 🔳 linux
