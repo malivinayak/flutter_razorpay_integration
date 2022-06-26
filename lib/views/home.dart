@@ -58,25 +58,25 @@ class _HomeState extends State<Home> {
     }
   }
 
-  void handlerPaymentSuccess() {
+  void handlerPaymentSuccess(PaymentSuccessResponse response) {
     print("P.Payment Successful");
-    Toast.show("Payment Successful",textStyle: context);
     setState(() {
       paymentStatus = "Payment Successful";
     });
   }
 
-  void handlerErrorFailure() {
+  void handlerErrorFailure(PaymentFailureResponse response) {
     print("P.Payment Fail");
-    Toast.show("Payment Fail",duration: Toast.lengthLong);
+    // Toast.show("Payment Fail",duration: Toast.lengthLong, gravity: Toast.bottom);
     setState(() {
       paymentStatus = "Payment Failed\nTry Again";
     });
-    // paymentStatus = "Payment Failed\nTry Again";
   }
 
-  void handlerExternalWallet() {
-    Toast.show("External Wallet",duration: Toast.lengthShort, gravity: Toast.bottom);
+  void handlerExternalWallet(ExternalWalletResponse response) {
+    setState(() {
+      paymentStatus = "Payment handlerExternalWallet";
+    });
   }
 
   @override
