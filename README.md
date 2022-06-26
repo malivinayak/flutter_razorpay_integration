@@ -1,4 +1,4 @@
-# flutter Razorpay Integration
+# Flutter Razorpay Integration
 
 
 <p align="center">
