@@ -1,5 +1,10 @@
 # flutter Razorpay Integration
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66154908/175818539-332a0470-9367-4349-aba1-d1a87c9ad409.png" />
+</p>
+
 <p align="center">
   
   <img src="https://user-images.githubusercontent.com/66154908/175817294-5edcbc01-0031-4249-8e11-0927cc1bbc9b.jpeg" width="19%"></img>
