@@ -31,8 +31,8 @@ This package currently is only tested on android and the web platform.
 
 | | |
 | ---- | ------------------------------------ |
-| <p align="center"> <img src="https://user-images.githubusercontent.com/66154908/175827109-a9f2f54a-f63e-4e07-bd83-a1f760246b56.png" width="80%"></img> | This project is licensed under the MIT License. For more information, read the [LICENSE](LICENSE) file.  <img width=1800/> |
-  
+| <p align="center"> <img src="https://user-images.githubusercontent.com/66154908/175827109-a9f2f54a-f63e-4e07-bd83-a1f760246b56.png" width="80%"></img> | This project is licensed under MIT License (c) 2022 Vinayak Mali, Inc. For more information, read the [LICENSE](LICENSE) file.  <img width=1600/> |
+   
 
 
 
